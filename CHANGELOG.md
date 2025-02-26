@@ -1,5 +1,15 @@
 # Changelog
 
+## [2025.2.9](https://github.com/jdx/mise/compare/v2025.2.8..v2025.2.9) - 2025-02-26
+
+### 🚀 Features
+
+- **(registry)** add cocogitto by [@reitzig](https://github.com/reitzig) in [#4513](https://github.com/jdx/mise/pull/4513)
+
+### New Contributors
+
+- @reitzig made their first contribution in [#4513](https://github.com/jdx/mise/pull/4513)
+
 ## [2025.2.8](https://github.com/jdx/mise/compare/v2025.2.7..v2025.2.8) - 2025-02-25
 
 ### 🚀 Features
